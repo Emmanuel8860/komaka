@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="oggrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4F46E5"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#0A0E27"/>
+  <path d="M420 315 C420 265, 490 265, 530 315 C570 365, 640 365, 640 315 C640 265, 570 265, 530 315 C490 365, 420 365, 420 315 Z"
+    fill="none" stroke="url(#oggrad)" stroke-width="20" stroke-linecap="round" transform="translate(140,0)"/>
+  <circle cx="670" cy="315" r="12" fill="#F2A65A"/>
+  <text x="600" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="66" font-weight="800" fill="#F5F6FB">KOMAKA</text>
+  <text x="600" y="515" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" fill="#AEB6DA">L'Afrique des technologies</text>
+</svg>
