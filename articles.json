@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "bienvenue-sur-komaka",
+    "title": "Bienvenue sur KOMAKA",
+    "excerpt": "Pourquoi nous lançons KOMAKA aujourd'hui, et ce que cette plateforme va changer pour la technologie guinéenne et africaine.",
+    "category": "Actualités",
+    "author": "Emmanuel Siba Guébé Guilavogui",
+    "date": "2026-06-02",
+    "readTime": 4,
+    "cover": "#4F46E5",
+    "tags": ["KOMAKA", "Lancement", "Guinée"],
+    "content": [
+      { "type": "p", "text": "KOMAKA n'est pas né d'un plan d'affaires classique, mais d'une conviction simple : l'Afrique produit déjà les idées, il lui manque des plateformes pour les faire grandir. Ce site est le premier pas de cette conviction rendue publique." },
+      { "type": "h2", "text": "Une identité avant une structure" },
+      { "type": "p", "text": "Avant d'ouvrir des bureaux, KOMAKA construit son identité en ligne : un nom, une vision, un ton. C'est par là que commencent la plupart des entreprises technologiques qui durent." },
+      { "type": "h2", "text": "Ce qui arrive ensuite" },
+      { "type": "p", "text": "Dans les prochains mois, cet espace accueillera les coulisses des projets en construction, les décisions de produit et les leçons apprises en chemin. Ce premier article ouvre officiellement ce journal de bord." }
+    ]
+  },
+  {
+    "slug": "notre-vision-de-la-technologie-africaine",
+    "title": "Notre vision de la technologie africaine",
+    "excerpt": "« L'Afrique des technologies » : ce que ce slogan veut dire concrètement pour KOMAKA, et pourquoi il façonne chaque décision produit.",
+    "category": "Vision",
+    "author": "Emmanuel Siba Guébé Guilavogui",
+    "date": "2026-06-10",
+    "readTime": 5,
+    "cover": "#06B6D4",
+    "tags": ["Vision", "Afrique", "Stratégie"],
+    "content": [
+      { "type": "p", "text": "« L'Afrique des technologies » n'est pas un slogan décoratif. C'est un test que nous appliquons à chaque projet KOMAKA : ce produit résout-il un problème vécu localement, avec une exigence de qualité internationale ?" },
+      { "type": "h2", "text": "Partir des usages réels" },
+      { "type": "p", "text": "Trop d'outils pensés ailleurs supposent une connectivité, un pouvoir d'achat ou des habitudes qui ne correspondent pas au terrain guinéen et ouest-africain. Concevoir depuis ce terrain, plutôt que l'adapter après coup, change tout." },
+      { "type": "h2", "text": "Une exigence, pas une excuse" },
+      { "type": "p", "text": "Construire depuis l'Afrique ne doit jamais devenir un prétexte pour viser plus bas. C'est l'inverse : chaque produit KOMAKA doit tenir la comparaison avec les meilleurs standards mondiaux, tout en restant profondément ancré ici." }
+    ]
+  },
+  {
+    "slug": "pourquoi-nous-creons-heartlife",
+    "title": "Pourquoi nous créons HeartLife",
+    "excerpt": "Le premier projet incubé par KOMAKA répond à un besoin simple et universel. Retour sur les origines de HeartLife.",
+    "category": "Produits",
+    "author": "Emmanuel Siba Guébé Guilavogui",
+    "date": "2026-06-18",
+    "readTime": 6,
+    "cover": "#F2A65A",
+    "tags": ["HeartLife", "Produit", "Santé"],
+    "content": [
+      { "type": "p", "text": "Chaque produit KOMAKA part d'une observation avant de partir d'une technologie. HeartLife ne fait pas exception : c'est un problème concret, vécu par des personnes réelles, qui a précédé la première ligne de code." },
+      { "type": "h2", "text": "Le constat de départ" },
+      { "type": "p", "text": "Trop d'outils existants sont pensés pour des contextes où l'accompagnement, le suivi et la simplicité d'usage ne sont pas prioritaires. HeartLife part de l'exigence inverse : la simplicité d'abord, la technologie ensuite." },
+      { "type": "h2", "text": "Ce que nous construisons" },
+      { "type": "p", "text": "Sans dévoiler tous les détails avant l'heure, HeartLife est conçu comme un compagnon discret plutôt qu'un outil de plus à apprendre. Les prochaines publications de ce blog suivront son avancement." }
+    ]
+  },
+  {
+    "slug": "l-avenir-de-l-ia-en-afrique",
+    "title": "L'avenir de l'IA en Afrique",
+    "excerpt": "L'intelligence artificielle ne doit pas être importée telle quelle. Elle doit être pensée pour et depuis le continent.",
+    "category": "Intelligence Artificielle",
+    "author": "Emmanuel Siba Guébé Guilavogui",
+    "date": "2026-07-01",
+    "readTime": 7,
+    "cover": "#4F46E5",
+    "tags": ["IA", "Afrique", "Innovation"],
+    "content": [
+      { "type": "p", "text": "L'intelligence artificielle est souvent présentée comme une vague venue d'ailleurs, à laquelle l'Afrique devrait simplement s'adapter. Chez KOMAKA, nous pensons l'inverse : le continent a les données, les langues et les problèmes qui justifient une IA pensée depuis ici." },
+      { "type": "h2", "text": "Des données sous-représentées" },
+      { "type": "p", "text": "Les modèles actuels sont majoritairement entraînés sur des contenus qui ignorent les langues, les contextes économiques et les usages africains. Combler cet écart est autant une opportunité qu'une responsabilité." },
+      { "type": "h2", "text": "Le rôle que KOMAKA veut jouer" },
+      { "type": "p", "text": "Nous ne prétendons pas résoudre ce défi seuls. Mais chaque produit que nous construisons est une occasion de démontrer qu'une IA utile, sobre et ancrée localement est possible dès aujourd'hui." }
+    ]
+  },
+  {
+    "slug": "les-prochaines-applications-de-komaka",
+    "title": "Les prochaines applications de KOMAKA",
+    "excerpt": "Un aperçu, sans trop en dévoiler, de ce qui est en préparation dans les prochains mois chez KOMAKA.",
+    "category": "Actualités",
+    "author": "Emmanuel Siba Guébé Guilavogui",
+    "date": "2026-07-20",
+    "readTime": 4,
+    "cover": "#06B6D4",
+    "tags": ["Roadmap", "Produits"],
+    "content": [
+      { "type": "p", "text": "Après HeartLife, deux autres pistes avancent en parallèle chez KOMAKA : une application éducative pensée pour l'apprentissage autonome, et une marketplace qui facilite les échanges entre créateurs et acheteurs locaux." },
+      { "type": "h2", "text": "Une application éducative" },
+      { "type": "p", "text": "L'objectif n'est pas d'ajouter un énième cours en ligne, mais de proposer un parcours adapté à des connexions instables et à des emplois du temps contraints." },
+      { "type": "h2", "text": "Une marketplace locale" },
+      { "type": "p", "text": "Ce second projet part d'un constat simple : les créateurs et commerçants locaux manquent souvent d'un espace numérique aussi simple à utiliser que fiable. C'est ce que nous voulons construire." }
+    ]
+  }
+]
