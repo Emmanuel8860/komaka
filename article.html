@@ -3,20 +3,20 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Articles & Actualités — Blog KOMAKA</title>
-<meta name="description" content="Le blog de KOMAKA : vision, coulisses des produits, intelligence artificielle et actualités de l'entreprise technologique guinéenne.">
+<title>Article — Blog KOMAKA</title>
+<meta name="description" content="Article du blog KOMAKA.">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://www.komaka.tech/articles/index.html">
-<meta property="og:type" content="website">
+<link rel="canonical" href="https://www.komaka.tech/articles/article.html">
+<meta property="og:type" content="article">
 <meta property="og:site_name" content="KOMAKA">
-<meta property="og:title" content="Articles & Actualités — Blog KOMAKA">
-<meta property="og:description" content="Le blog de KOMAKA : vision, coulisses des produits, intelligence artificielle et actualités de l'entreprise technologique guinéenne.">
-<meta property="og:url" content="https://www.komaka.tech/articles/index.html">
+<meta property="og:title" content="Article — Blog KOMAKA">
+<meta property="og:description" content="Article du blog KOMAKA.">
+<meta property="og:url" content="https://www.komaka.tech/articles/article.html">
 <meta property="og:image" content="https://www.komaka.tech/images/og-image.svg">
 <meta property="og:locale" content="fr_FR">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Articles & Actualités — Blog KOMAKA">
-<meta name="twitter:description" content="Le blog de KOMAKA : vision, coulisses des produits, intelligence artificielle et actualités de l'entreprise technologique guinéenne.">
+<meta name="twitter:title" content="Article — Blog KOMAKA">
+<meta name="twitter:description" content="Article du blog KOMAKA.">
 <meta name="twitter:image" content="https://www.komaka.tech/images/og-image.svg">
 <link rel="icon" type="image/svg+xml" href="../images/favicon.svg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -54,7 +54,7 @@
   <div style="display:flex;align-items:center;gap:10px;">
     <a href="../index.html#vision">Vision</a>
     <a href="../about.html">À propos</a>
-    <a href="index.html" class="active">Articles</a>
+    <a href="index.html">Articles</a>
     <a href="../index.html#contact">Contact</a>
     <button class="nav-burger" aria-label="Menu" onclick="document.querySelector('.mobile-nav').classList.add('open')">&#9776;</button>
   </div>
@@ -67,24 +67,53 @@
   <a href="../index.html#contact">Contact</a>
 </div>
 
-<section id="blog-hero" style="padding-top:170px; padding-bottom:20px;">
-  <div class="section-label">Journal de bord</div>
-  <h1 style="font-size:clamp(2rem, 4.5vw, 3rem); max-width:18ch;">Articles &amp; Actualités</h1>
-  <p style="color:var(--muted); max-width:56ch; font-size:1.02rem; margin-top:12px;">Vision, coulisses des produits et réflexions sur la technologie et l'intelligence artificielle en Afrique.</p>
-</section>
-
-<section id="blog-list">
-  <div class="articles-toolbar">
-    <div class="search-box">
-      <span aria-hidden="true">&#8981;</span>
-      <input type="search" placeholder="Rechercher un article…" aria-label="Rechercher un article" data-articles-search>
+<main data-article-wrap>
+  <article style="padding-top:170px;">
+    <p style="color:var(--cyan); font-family:'Sora',sans-serif; font-weight:600; font-size:0.85rem;">
+      <a href="index.html" style="color:var(--cyan); text-decoration:none;">&larr; Tous les articles</a>
+      &nbsp;&middot;&nbsp; <span data-a-category></span>
+    </p>
+    <h1 style="font-size:clamp(1.8rem, 4vw, 2.8rem); max-width:22ch; margin-top:14px;" data-a-title></h1>
+    <div class="article-meta" style="margin-top:16px;">
+      <span class="author-chip">
+        <span class="author-avatar" style="display:flex; align-items:center; justify-content:center; color:#fff; font-size:0.65rem; font-family:'Sora',sans-serif;" data-a-author-initials></span>
+        <span data-a-author></span>
+      </span>
+      <span class="dot"></span><span data-a-date></span>
+      <span class="dot"></span><span data-a-readtime></span>
     </div>
-    <div class="filter-chips" data-articles-chips role="group" aria-label="Filtrer par catégorie"></div>
-  </div>
-  <div class="article-grid" data-articles-grid></div>
-  <p style="color:var(--muted); text-align:center; margin-top:28px; display:none;" data-articles-empty>Aucun article ne correspond à votre recherche.</p>
-  <div class="pagination" data-articles-pagination></div>
-</section>
+    <div class="article-hero-cover" data-a-cover-wrap></div>
+  </article>
+
+  <section style="margin-top:8px;">
+    <div class="article-content" data-a-content></div>
+    <div class="article-content">
+      <div class="tag-list" data-a-tags style="margin-top:30px;"></div>
+      <div class="share-row">
+        <span style="color:var(--muted); font-size:0.85rem;">Partager :</span>
+        <a class="share-btn" data-share="twitter" target="_blank" rel="noopener" aria-label="Partager sur X">𝕏</a>
+        <a class="share-btn" data-share="linkedin" target="_blank" rel="noopener" aria-label="Partager sur LinkedIn">in</a>
+        <a class="share-btn" data-share="facebook" target="_blank" rel="noopener" aria-label="Partager sur Facebook">f</a>
+        <a class="share-btn" data-share="whatsapp" target="_blank" rel="noopener" aria-label="Partager sur WhatsApp">&#9993;</a>
+      </div>
+      <div class="comments-block">
+        <h2 style="font-family:'Sora',sans-serif; font-size:1.2rem;">Commentaires</h2>
+        <p class="comments-note">Les commentaires seront activés prochainement. Le formulaire ci-dessous est un aperçu de l'interface prévue.</p>
+        <form class="comment-form" onsubmit="event.preventDefault(); alert('Les commentaires ne sont pas encore activés. Revenez bient\u00f4t !');">
+          <input type="text" placeholder="Votre nom" disabled>
+          <textarea placeholder="Votre commentaire…" disabled></textarea>
+          <button type="submit" class="btn btn-primary" style="padding:10px 22px; font-size:0.85rem;" disabled>Publier (bientôt disponible)</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <section style="padding-top:0;">
+    <div class="section-label">À lire aussi</div>
+    <h2 style="font-size:clamp(1.5rem, 3vw, 2rem);">Articles liés</h2>
+    <div class="article-grid" data-a-related style="margin-top:28px;"></div>
+  </section>
+</main>
 
 <footer class="site-footer">
   <div class="footer-grid">
