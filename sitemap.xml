@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.komaka.tech/index.html</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.komaka.tech/about.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.komaka.tech/articles/index.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.komaka.tech/articles/article.html?slug=bienvenue-sur-komaka</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.komaka.tech/articles/article.html?slug=notre-vision-de-la-technologie-africaine</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.komaka.tech/articles/article.html?slug=pourquoi-nous-creons-heartlife</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.komaka.tech/articles/article.html?slug=l-avenir-de-l-ia-en-afrique</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.komaka.tech/articles/article.html?slug=les-prochaines-applications-de-komaka</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+</urlset>
